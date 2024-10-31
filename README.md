@@ -1,7 +1,7 @@
 # XAI in Large Language Models - Token Saliency Analysis in Food Descriptions
 
 ## 🚀 Overview
-This project explores how the GPT-2 model processes and evaluates different words (or tokens) in food descriptions. We use a method called saliency analysis to see which words are most important when the model generates text based on a given prompt. 
+This project explores how the GPT-2 model processes and evaluates different words (or tokens) in food descriptions. I used saliency analysis to see which words are most important when the model generates text based on a given prompt. 
 
 ## 📝 Steps
 1. **Set Up:**
